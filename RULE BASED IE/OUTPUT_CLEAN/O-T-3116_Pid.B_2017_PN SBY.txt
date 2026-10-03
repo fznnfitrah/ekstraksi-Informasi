@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-3116_Pid.B_2017_PN SBY.txt
+Jenis Dokumen : pidana
+Status        : sebagian (13/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 3116/Pid.B/2017/PN Sby
+Nama Terdakwa 1   : MASHURI
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : Perjudian yang
+Tuntutan KUHP     : Pasal 303 Bis ayat (1) ke-2 KUHP
+Tuntutan Hukuman  : 1 (satu) tahun
+Putusan Pidana    : tindak pidana: Perjudian
+Putusan Hukuman   : 10 (sepuluh) bulan
+Tanggal Putusan   : 15 Februari 2018
+Hakim Ketua       : AGUS HAMZAH, S.H., M.H.
+Hakim Anggota 1   : FX. HANUNG DWI WIBOWO, S.H., M.H.
+Hakim Anggota 2   : SIFA’ UROSIDIN, S.H., M.H.
+Panitera          : AGUS WIDODO, S.H., M.H.
+Penuntut Umum     : Hasanuddin Tandiholo, SH.
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_2: dokumen ini tidak mempunyai terdakwa kedua/ketiga; nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga

@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-221_Pid.Sus_2018_PN SBY.txt
+Jenis Dokumen : pidana
+Status        : sebagian (12/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 221/Pid.Sus/2018/PN Sby
+Nama Terdakwa 1   : Bhimo Soenaryo Putro Bin Hendro Tjahyono
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : “Menyalahguna Narkotika Golongan I bagi diri sendiri“
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : 1 (satu) tahun dan 6 (enam) bulan
+Putusan Pidana    : “Penyalahguna narkotika Golongan I bagi Diri Sendiri“
+Putusan Hukuman   : 1 (satu) tahun
+Tanggal Putusan   : 6 Maret 2018
+Hakim Ketua       : Pujo Saksono, SH., MH.
+Hakim Anggota 1   : Anne Rusiana, SH., M.Hum.
+Hakim Anggota 2   : Dwi Purwadi, SH., MH.
+Panitera          : Hery Marsudi, SH.
+Penuntut Umum     : Darwis, SH.
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_2: dokumen ini tidak mempunyai terdakwa kedua/ketiga; nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga; tuntutan_kuhp: amar Tuntutan nomor 1 tidak memuat Pasal KUHP

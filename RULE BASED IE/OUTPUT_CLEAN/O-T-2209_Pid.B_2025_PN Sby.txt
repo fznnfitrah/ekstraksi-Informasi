@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-2209_Pid.B_2025_PN Sby.txt
+Jenis Dokumen : pidana
+Status        : sebagian (13/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 2209/Pid.B/2025/PN Sby
+Nama Terdakwa 1   : NOVAL BAYU SAPUTRA Bin MOCH. MUCHAYIN
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : pencurian
+Tuntutan KUHP     : Pasal 363 Ayat (1) ke 5 KUHP
+Tuntutan Hukuman  : 4 (empat) tahun 6 (enam) bulan
+Putusan Pidana    : “ Pencurian dalam keadaam memberatkan
+Putusan Hukuman   : 4 (empat) tahun
+Tanggal Putusan   : 11 November 2025
+Hakim Ketua       : Aloysius Priharnoto Bayuaji, S.H., M.H.
+Hakim Anggota 1   : Dra. Susanti Arsi Wibawani, S.H., M.H.
+Hakim Anggota 2   : Ega, S.H.aktiana, S.H., M.H.
+Panitera          : Ryan Afrilyansyah, S.H.
+Penuntut Umum     : Hajita Cahyo Nugroho, S.H
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_2: dokumen ini tidak mempunyai terdakwa kedua/ketiga; nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga

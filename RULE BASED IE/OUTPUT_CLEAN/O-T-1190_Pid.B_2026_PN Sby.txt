@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-1190_Pid.B_2026_PN Sby.txt
+Jenis Dokumen : pidana
+Status        : sebagian (13/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 1190/Pid.B/2026/PN Sby
+Nama Terdakwa 1   : RIDWAN BIN SAYEKI
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : perbuatan mengambil suatu Barang yang Sebagian atau seluruhnya milik orang lain, dengan maksud untuk dimiliki secara melawan hukum, dengan cara merusak, membongkar, memotong memecah, memanjat memakai Anak Kunci Palsu, menggunakan perintah palsu, atau memakai pakalan jabatan palsu, untuk Masuk ke tempat melakukan Tindak Pidana atau sampai pada Barang yang diambil, secara bersama-sama dan bersekutu
+Tuntutan KUHP     : Pasal 477 ayat (1) huruf f dan g UU RI No. 1 Tahun 2023 Tentang KUHP
+Tuntutan Hukuman  : 2 (dua) Tahun
+Putusan Pidana    : ”Pencurian”
+Putusan Hukuman   : 1 (satu) tahun dan 6 (enam) bulan
+Tanggal Putusan   : 9 September 2026
+Hakim Ketua       : Irlina, S.H., M.H.
+Hakim Anggota 1   : Dr. Nur Kholis, S.H., M.H.
+Hakim Anggota 2   : Cokia Ana Pontia O, S.H., M.H.
+Panitera          : Susanawati, S.H., M.H.
+Penuntut Umum     : Reiyan Novandana Syanur Putra, S.H.
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_2: dokumen ini tidak mempunyai terdakwa kedua/ketiga; nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga

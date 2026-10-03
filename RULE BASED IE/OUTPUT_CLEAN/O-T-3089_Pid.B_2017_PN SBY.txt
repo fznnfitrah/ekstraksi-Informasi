@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-3089_Pid.B_2017_PN SBY.txt
+Jenis Dokumen : pidana
+Status        : lengkap (15/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 3089/Pid.B/2017/PN SBY
+Nama Terdakwa 1   : CHOIRUL WAHID Alias IRUL
+Nama Terdakwa 2   : HARTOYO ALIAS TOYO
+Nama Terdakwa 3   : RATMAJI Alias AMBON
+Tuntutan Pidana   : Pencurian Dengan Kekerasan
+Tuntutan KUHP     : Pasal 365 ayat (2) ke 1 dan ke 2 KUHP
+Tuntutan Hukuman  : 11 (sebelas) tahun
+Putusan Pidana    : “ Pencurian dengan kekerasan dalam keadaan memberatkan “
+Putusan Hukuman   : 7 (tujuh) tahun 6 (enam) bulan
+Tanggal Putusan   : 7 Februari 2018
+Hakim Ketua       : I WAYAN SOSIAWAN, SH., MH
+Hakim Anggota 1   : PUJO SAKSONO, SH., MH.
+Hakim Anggota 2   : H HISBULLAH IDRIS, SH., MHum.
+Panitera          : SLAMET SURIPTA, SH., MH
+Penuntut Umum     : RIRIN INDRAWATI, SH
+------------------------------------------------------------
+Catatan Kosong:
+semua entitas yang berlaku terisi

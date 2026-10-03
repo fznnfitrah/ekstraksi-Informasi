@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-354_Pdt.Bth_2026_PN Sby.txt
+Jenis Dokumen : bantahan
+Status        : lengkap (6/6 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 354/Pdt.Bth/2026/PN Sby
+Nama Terdakwa 1   : -
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : -
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : -
+Putusan Pidana    : -
+Putusan Hukuman   : -
+Tanggal Putusan   : 2 September 2026
+Hakim Ketua       : Antyo Harri Susetyo, S.H.
+Hakim Anggota 1   : Hj. Ardiani, S.H.
+Hakim Anggota 2   : Ira Wati, S.H., M.Kn.
+Panitera          : Leny Muji Astuti, S.H., M.H.
+Penuntut Umum     : -
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_1: tidak berlaku untuk dokumen bantahan; nama_terdakwa_2: tidak berlaku untuk dokumen bantahan; nama_terdakwa_3: tidak berlaku untuk dokumen bantahan; tuntutan_pidana: tidak berlaku untuk dokumen bantahan; tuntutan_kuhp: tidak berlaku untuk dokumen bantahan; tuntutan_hukuman: tidak berlaku untuk dokumen bantahan; putusan_pidana: tidak berlaku untuk dokumen bantahan; putusan_hukuman: tidak berlaku untuk dokumen bantahan; penuntut_umum: tidak berlaku untuk dokumen bantahan

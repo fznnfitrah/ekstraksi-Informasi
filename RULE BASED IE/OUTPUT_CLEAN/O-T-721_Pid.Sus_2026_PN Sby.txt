@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-721_Pid.Sus_2026_PN Sby.txt
+Jenis Dokumen : pidana
+Status        : sebagian (12/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 721/Pid.Sus/2026/PN Sby
+Nama Terdakwa 1   : WAWAN PURDIANTO ALIAS CEBOL BIN SAMI’AN
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : “menempatkan, membayarkan atau membelanjakan, menitipkan, menukarkan, menyembunyikan atau menyamarkan, menginvestasikan, menyimpan, menghibahkan, mewariskan, dan/atau mentransfer uang, harta, dan benda atau aset baik dalam bentuk benda bergerak maupun tidak bergerak, berwujud atau tidak berwujud yang berasal dari tindak pidana Narkotika dan/atau tindak pidana Prekursor Narkotika “
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : 10 (sepuluh) tahun
+Putusan Pidana    : Menempatkan, membayarkan, menyamarkan, dan mentransfer uang, harta yang berasal dari tindak pidana Narkotika
+Putusan Hukuman   : 7 (tujuh) Tahun
+Tanggal Putusan   : 9 September 2026
+Hakim Ketua       : Antyo Harri Susetyo, S.H.
+Hakim Anggota 1   : Nyoman Ayu Wulandari, S.H., M.H.
+Hakim Anggota 2   : Ira Wati, S.H., M.Kn.
+Panitera          : Leny Muji Astuti, S.H., M.H.
+Penuntut Umum     : Yusup, S.H.., M.H.um
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_2: dokumen ini tidak mempunyai terdakwa kedua/ketiga; nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga; tuntutan_kuhp: amar Tuntutan nomor 1 tidak memuat Pasal KUHP

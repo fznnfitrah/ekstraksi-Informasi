@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-3825_Pid.B_2017_PN SBY.txt
+Jenis Dokumen : pidana
+Status        : sebagian (14/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 3825/Pid.B/2017/PN Sby
+Nama Terdakwa 1   : HADI SUPRIYADI Als. KEPIK Bin SUPARDI
+Nama Terdakwa 2   : HAMZAH EFFENDI Bin SUWARNO
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : pencurian
+Tuntutan KUHP     : Pasal 363 ayat (1) ke-4 KUHP
+Tuntutan Hukuman  : 1 (satu) tahun dan 6 (enam) bulan
+Putusan Pidana    : tindak pidana: Pencurian dalam keadaan memberatkan
+Putusan Hukuman   : 1 (satu) tahun dan 4 (empat) bulan
+Tanggal Putusan   : 29 Januari 2018
+Hakim Ketua       : SIFA’ UROSIDIN, S.H., M.H.
+Hakim Anggota 1   : ISJUAEDI, S.H., M.H.
+Hakim Anggota 2   : AGUS HAMZAH, S.H., M.H.
+Panitera          : AGUS WIDODO, S.H., M.H.
+Penuntut Umum     : Riny NT, SH.
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga

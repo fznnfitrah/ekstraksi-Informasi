@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-1211_Pid.B_2026_PN Sby.txt
+Jenis Dokumen : pidana
+Status        : sebagian (12/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 1211/Pid.B/2026/PN Sby
+Nama Terdakwa 1   : Senawi Bin (alm) Darusman
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : setiap orang yang mengambil suatu barang yang sebagian atau seluruhnya milik orang lain, dengan maksud untuk memiliki secara melawan hukum
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : 3 (tiga) tahun
+Putusan Pidana    : pencurian
+Putusan Hukuman   : 2 (dua) tahun dan 6 (enam) bulan
+Tanggal Putusan   : 17 September 2026
+Hakim Ketua       : Ega Shaktiana, S.H., M.H.
+Hakim Anggota 1   : Sih Yuliarti, S.H.
+Hakim Anggota 2   : Aloysius Priharnoto Bayuaji, S.H., M.H.
+Panitera          : Diana Syahbani, S.H., M.H.
+Penuntut Umum     : Dzulkifli Nento, S.H.
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_2: dokumen ini tidak mempunyai terdakwa kedua/ketiga; nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga; tuntutan_kuhp: amar Tuntutan nomor 1 tidak memuat Pasal KUHP

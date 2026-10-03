@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-713_Pdt.G_2026_PN Sby.txt
+Jenis Dokumen : gugatan
+Status        : lengkap (6/6 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 713/Pdt.G/2026/PN Sby
+Nama Terdakwa 1   : -
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : -
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : -
+Putusan Pidana    : -
+Putusan Hukuman   : -
+Tanggal Putusan   : 9 September 2026
+Hakim Ketua       : Erly Soelistyarini, SH. M.Hum
+Hakim Anggota 1   : Meilia Chrstina Mulyaningrum, S.H.
+Hakim Anggota 2   : Alex Adam Faisal, S.H., M.H.
+Panitera          : Leny Muji Astuti S.H., M.H.
+Penuntut Umum     : -
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_1: tidak berlaku untuk dokumen gugatan; nama_terdakwa_2: tidak berlaku untuk dokumen gugatan; nama_terdakwa_3: tidak berlaku untuk dokumen gugatan; tuntutan_pidana: tidak berlaku untuk dokumen gugatan; tuntutan_kuhp: tidak berlaku untuk dokumen gugatan; tuntutan_hukuman: tidak berlaku untuk dokumen gugatan; putusan_pidana: tidak berlaku untuk dokumen gugatan; putusan_hukuman: tidak berlaku untuk dokumen gugatan; penuntut_umum: tidak berlaku untuk dokumen gugatan

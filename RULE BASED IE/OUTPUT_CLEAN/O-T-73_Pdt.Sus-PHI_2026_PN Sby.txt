@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-73_Pdt.Sus-PHI_2026_PN Sby.txt
+Jenis Dokumen : phi
+Status        : lengkap (6/6 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 73/Pdt.Sus-PHI/2026/PN Sby
+Nama Terdakwa 1   : -
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : -
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : -
+Putusan Pidana    : -
+Putusan Hukuman   : -
+Tanggal Putusan   : 7 September 2026
+Hakim Ketua       : Hj. Satyawati Yun Irianti, S.H., M.Hum.
+Hakim Anggota 1   : Nursalam, S.H., M.H.
+Hakim Anggota 2   : Erfan Jamil, S.H., M.H.
+Panitera          : Lukman Hakim, S.H., M.H.
+Penuntut Umum     : -
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_1: tidak berlaku untuk dokumen phi; nama_terdakwa_2: tidak berlaku untuk dokumen phi; nama_terdakwa_3: tidak berlaku untuk dokumen phi; tuntutan_pidana: tidak berlaku untuk dokumen phi; tuntutan_kuhp: tidak berlaku untuk dokumen phi; tuntutan_hukuman: tidak berlaku untuk dokumen phi; putusan_pidana: tidak berlaku untuk dokumen phi; putusan_hukuman: tidak berlaku untuk dokumen phi; penuntut_umum: tidak berlaku untuk dokumen phi

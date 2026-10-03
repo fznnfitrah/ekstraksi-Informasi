@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-26_Pid.Sus_2018_PN SBY.txt
+Jenis Dokumen : pidana
+Status        : sebagian (10/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 26/Pid.Sus/2018/PN SBY
+Nama Terdakwa 1   : PAIMAH ALIMAWATI binti ANWAR
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : -
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : -
+Putusan Pidana    : telah melakukan percobaan atau permufakatan jahat secara tanpa hak atau melawan hukum menawarkan untuk dijual, menjual, membeli, menerima, menjadi perantara dalam jual beli, menukar atau menyerahkan Narkotika Golongan I (satu) bukan tanaman
+Putusan Hukuman   : 5 (lima) tahun dan 6 (enam) bulan
+Tanggal Putusan   : 21 Februari 2018
+Hakim Ketua       : Dewi Iswani, SH.MH.
+Hakim Anggota 1   : Maxi Sigarlaki, SH.MH.
+Hakim Anggota 2   : Rochmad, S.H.
+Panitera          : Makhfud, SH.MH.
+Penuntut Umum     : Adhiem Widigdo, SH.
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_2: dokumen ini tidak mempunyai terdakwa kedua/ketiga; nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga; tuntutan_pidana: amar Tuntutan nomor 1 tidak memuat perbuatan yang dapat dipisahkan; tuntutan_kuhp: amar Tuntutan nomor 1 tidak memuat Pasal KUHP; tuntutan_hukuman: amar Tuntutan nomor 2 tidak memuat durasi sesudah 'selama'

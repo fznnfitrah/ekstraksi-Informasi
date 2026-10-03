@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-790_Pdt.G_2026_PN Sby.txt
+Jenis Dokumen : gugatan
+Status        : sebagian (3/6 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 790/Pdt.G/2026/PN Sby
+Nama Terdakwa 1   : -
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : -
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : -
+Putusan Pidana    : -
+Putusan Hukuman   : -
+Tanggal Putusan   : 9 September 2026
+Hakim Ketua       : -
+Hakim Anggota 1   : -
+Hakim Anggota 2   : -
+Panitera          : S.H., M.H.
+Penuntut Umum     : -
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_1: tidak berlaku untuk dokumen gugatan; nama_terdakwa_2: tidak berlaku untuk dokumen gugatan; nama_terdakwa_3: tidak berlaku untuk dokumen gugatan; tuntutan_pidana: tidak berlaku untuk dokumen gugatan; tuntutan_kuhp: tidak berlaku untuk dokumen gugatan; tuntutan_hukuman: tidak berlaku untuk dokumen gugatan; putusan_pidana: tidak berlaku untuk dokumen gugatan; putusan_hukuman: tidak berlaku untuk dokumen gugatan; hakim_ketua: nama sebelum 'Hakim Ketua' tidak ditemukan di penutup; hakim_anggota_1: daftar 'masing-masing sebagai Hakim Anggota' tidak ditemukan (misalnya hakim tunggal); hakim_anggota_2: anggota kedua tidak ditemukan (misalnya hakim tunggal); penuntut_umum: tidak berlaku untuk dokumen gugatan

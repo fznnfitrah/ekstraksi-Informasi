@@ -1,0 +1,15 @@
+1031_Pdt.G_2026_PN Sby.pdf: nomor nama file (1031) != nomor isi (100)
+3162_Pid.B_2017_PN SBY.pdf: nomor nama file (3162) != nomor isi (3150)
+3749_Pid.B_2017_PN SBY.pdf: nomor nama file (3749) != nomor isi (113)
+527_Pid.Sus_2018_PN SBY.pdf: nomor nama file (527) != nomor isi (359)
+748_Pid.C_2025_PN Sby.pdf: hasil scan tanpa layer teks (butuh OCR)
+putusan_186_pdt.g_2026_pn_sby_20260930172538.pdf: duplikat byte-identik dari 186_Pdt.G_2026_PN Sby.pdf
+putusan_227_pdt.g_2026_pn_sby_20261001175526.pdf: duplikat byte-identik dari 227_Pdt.G_2026_PN Sby.pdf
+putusan_2296_pdt.p_2026_pn_sby_20261002062257.pdf: duplikat byte-identik dari 2296_Pdt.P_2026_PN Sby.pdf
+putusan_2569_pdt.p_2026_pn_sby_20261002062209.pdf: duplikat byte-identik dari 2569_Pdt.P_2026_PN Sby.pdf
+putusan_2594_pdt.p_2026_pn_sby_20261002063444.pdf: duplikat byte-identik dari 2594_Pdt.P_2026_PN Sby.pdf
+putusan_2674_pdt.p_2026_pn_sby_20261002062020.pdf: duplikat byte-identik dari 2674_Pdt.P_2026_PN Sby.pdf
+putusan_3278_pid.sus_2017_pn_sby_20261002061355.pdf: duplikat byte-identik dari 3278_Pid.Sus_2017_PN SBY.pdf
+putusan_55_pid.sus-tpk_2026_pn_sby_20261002063524.pdf: duplikat byte-identik dari 55_Pid.Sus-TPK_2026_PN Sby.pdf
+putusan_6_pdt.sus-hki_merek_2026_pn_niaga_sby_20261001151239.pdf: duplikat byte-identik dari 6_Pdt.Sus-HKI_Merek_2026_PN Niaga Sby.pdf
+putusan_71_pdt.sus-pkpu_2026_pn_niaga_sby_20261001151203.pdf: duplikat byte-identik dari 71_Pdt.Sus-PKPU_2026_PN Niaga Sby.pdf

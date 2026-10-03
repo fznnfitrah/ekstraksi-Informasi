@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-816_Pdt.G_2026_PN Sby.txt
+Jenis Dokumen : gugatan
+Status        : lengkap (6/6 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 816/Pdt.G/2026/PN Sby
+Nama Terdakwa 1   : -
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : -
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : -
+Putusan Pidana    : -
+Putusan Hukuman   : -
+Tanggal Putusan   : 9 September 2026
+Hakim Ketua       : Dr. Nur Kholis, S.H., M.H.
+Hakim Anggota 1   : Sugeng Harsoyo, S.H., M.H.
+Hakim Anggota 2   : Cokia Ana Pontia Oppusunggu, S.H., M.H.
+Panitera          : Achmad Sofwan Mustafiddin, S.H., M.H
+Penuntut Umum     : -
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_1: tidak berlaku untuk dokumen gugatan; nama_terdakwa_2: tidak berlaku untuk dokumen gugatan; nama_terdakwa_3: tidak berlaku untuk dokumen gugatan; tuntutan_pidana: tidak berlaku untuk dokumen gugatan; tuntutan_kuhp: tidak berlaku untuk dokumen gugatan; tuntutan_hukuman: tidak berlaku untuk dokumen gugatan; putusan_pidana: tidak berlaku untuk dokumen gugatan; putusan_hukuman: tidak berlaku untuk dokumen gugatan; penuntut_umum: tidak berlaku untuk dokumen gugatan

@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-3524_Pid.B_2017_PN SBY.txt
+Jenis Dokumen : pidana
+Status        : sebagian (12/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 3524/Pid.B/2017/PN Sby
+Nama Terdakwa 1   : Eko Yayak Nugroho Bin Maryunan (Alm)
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : Penggelapan sebagimana
+Tuntutan KUHP     : Pasal 372 KUHP
+Tuntutan Hukuman  : -
+Putusan Pidana    : tindak pidana: Penggelapan
+Putusan Hukuman   : 6 (enam) bulan
+Tanggal Putusan   : 12 Februari 2018
+Hakim Ketua       : AGUS HAMZAH, S.H., M.H.
+Hakim Anggota 1   : FX. HANUNG DWI WIBOWO, S.H., M.H.
+Hakim Anggota 2   : SIFA’ UROSIDIN, S.H., M.H.
+Panitera          : AGUS WIDODO, S.H., M.H.
+Penuntut Umum     : Linda B Karundeng, SH.
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_2: dokumen ini tidak mempunyai terdakwa kedua/ketiga; nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga; tuntutan_hukuman: amar Tuntutan nomor 2 tidak memuat durasi sesudah 'selama'

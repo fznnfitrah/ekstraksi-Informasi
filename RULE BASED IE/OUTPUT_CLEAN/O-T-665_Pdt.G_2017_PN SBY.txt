@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-665_Pdt.G_2017_PN SBY.txt
+Jenis Dokumen : gugatan
+Status        : lengkap (6/6 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 665/PDT/G/2017/PN Sby
+Nama Terdakwa 1   : -
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : -
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : -
+Putusan Pidana    : -
+Putusan Hukuman   : -
+Tanggal Putusan   : 28 Januari 2018
+Hakim Ketua       : ARI JIWANTARA, SH.M.Hum
+Hakim Anggota 1   : H. R. UNGGUL WARSO MURTI SH MH
+Hakim Anggota 2   : RIFANDARU E SETIAWAN, SH
+Panitera          : Didik Dwi Riyanto SH MH
+Penuntut Umum     : -
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_1: tidak berlaku untuk dokumen gugatan; nama_terdakwa_2: tidak berlaku untuk dokumen gugatan; nama_terdakwa_3: tidak berlaku untuk dokumen gugatan; tuntutan_pidana: tidak berlaku untuk dokumen gugatan; tuntutan_kuhp: tidak berlaku untuk dokumen gugatan; tuntutan_hukuman: tidak berlaku untuk dokumen gugatan; putusan_pidana: tidak berlaku untuk dokumen gugatan; putusan_hukuman: tidak berlaku untuk dokumen gugatan; penuntut_umum: tidak berlaku untuk dokumen gugatan

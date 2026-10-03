@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-3751_Pid.B_2017_PN SBY.txt
+Jenis Dokumen : pidana
+Status        : sebagian (13/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 3751/Pid.B/2017/PN Sby
+Nama Terdakwa 1   : Elwin Fransisco Belli
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : Penggelapan
+Tuntutan KUHP     : Pasal 372 KUH Pidana
+Tuntutan Hukuman  : 1 (satu) tahun dan 6 (enam) bulan
+Putusan Pidana    : tindak pidana: Penggelapan
+Putusan Hukuman   : 1 (satu) tahun dan 4 (empat) bulan
+Tanggal Putusan   : 26 Februari 2018
+Hakim Ketua       : SIFA’ UROSIDIN, S.H., M.H.
+Hakim Anggota 1   : FX. HANUNG DWI WIBOWO, S.H., M.H.
+Hakim Anggota 2   : AGUS HAMZAH, S.H., M.H.
+Panitera          : AGUS WIDODO, S.H., M.H.
+Penuntut Umum     : Sukisno, SH.
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_2: dokumen ini tidak mempunyai terdakwa kedua/ketiga; nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga

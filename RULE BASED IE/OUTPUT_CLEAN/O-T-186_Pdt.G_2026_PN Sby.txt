@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-186_Pdt.G_2026_PN Sby.txt
+Jenis Dokumen : gugatan
+Status        : lengkap (6/6 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 186/Pdt.G/2026/PN SBY
+Nama Terdakwa 1   : -
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : -
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : -
+Putusan Pidana    : -
+Putusan Hukuman   : -
+Tanggal Putusan   : 27 Agustus 2026
+Hakim Ketua       : MUHAMMAD ZULQARNAIN, SH.MH.
+Hakim Anggota 1   : ABU ACHMAD SIDQI AMSYA, SH.
+Hakim Anggota 2   : RIDA NUR KARIMA, SH.MHum.
+Panitera          : ACHMAD FAJARISMAN, SKom.SH.MH.
+Penuntut Umum     : -
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_1: tidak berlaku untuk dokumen gugatan; nama_terdakwa_2: tidak berlaku untuk dokumen gugatan; nama_terdakwa_3: tidak berlaku untuk dokumen gugatan; tuntutan_pidana: tidak berlaku untuk dokumen gugatan; tuntutan_kuhp: tidak berlaku untuk dokumen gugatan; tuntutan_hukuman: tidak berlaku untuk dokumen gugatan; putusan_pidana: tidak berlaku untuk dokumen gugatan; putusan_hukuman: tidak berlaku untuk dokumen gugatan; penuntut_umum: tidak berlaku untuk dokumen gugatan

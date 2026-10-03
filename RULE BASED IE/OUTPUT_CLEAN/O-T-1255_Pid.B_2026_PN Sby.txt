@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-1255_Pid.B_2026_PN Sby.txt
+Jenis Dokumen : pidana
+Status        : sebagian (13/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 1255/Pid.B/2026/PN Sby
+Nama Terdakwa 1   : Ahkmad Khasan Efendi Bin Sutari
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : mengambil suatu Barang yang sebagian atau seluruhnya milik orang lain, dengan maksud untuk dimiliki secara melawan hukum
+Tuntutan KUHP     : Pasal 476 UU RI No. 1 Tahun 2023 tentang KUHP
+Tuntutan Hukuman  : 2 (dua) tahun
+Putusan Pidana    : Pencurian
+Putusan Hukuman   : 1 (satu) tahun 8 (delapan) bulan
+Tanggal Putusan   : 11 September 2026
+Hakim Ketua       : Rida Nur Karima, S.H., M.Hum.
+Hakim Anggota 1   : Abu Achmad Sidqi Amsya, S.H.
+Hakim Anggota 2   : Muhammad Zulqarnain, S.H., M.H.
+Panitera          : ANDI SETYAWAN, S.H.
+Penuntut Umum     : Suparlan Hadiyanto, S.H.
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_2: dokumen ini tidak mempunyai terdakwa kedua/ketiga; nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga

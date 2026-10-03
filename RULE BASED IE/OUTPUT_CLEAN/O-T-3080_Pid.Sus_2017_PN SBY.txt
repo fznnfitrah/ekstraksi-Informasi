@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-3080_Pid.Sus_2017_PN SBY.txt
+Jenis Dokumen : pidana
+Status        : sebagian (13/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 3080/Pid.Sus/2017/PN SBY
+Nama Terdakwa 1   : Agus Junaedi Bin Kamim Tohari
+Nama Terdakwa 2   : Mila Indriani Santoso Binti Suroso Santoso
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : percobaan atau permufakatan jahat melakukan tindak pidana narkotika atau prekusor narkotika secara tanpa haka tau melawan hokum memiliki, menyimpan, menguasai atau menyediakan narkotika golongan I bukan tanaman
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : 7 (tujuh) tahun dan 6 (enam) bulan
+Putusan Pidana    : .Melakukan permufakatan jahat untuk melakukan tindak pidana tanpa hak atau melawan hukum memiliki, menyimpan menguasai atau menyediakan Narkotika golongan I bukan tanaman
+Putusan Hukuman   : 6 (enam) Tahun
+Tanggal Putusan   : 16 Januari 2018
+Hakim Ketua       : Isjuaedi, S.H., M.H
+Hakim Anggota 1   : Sifa’urosidin, S.H., M.H.
+Hakim Anggota 2   : FX Hanung Dwi Wibowo, S.H., M.H.
+Panitera          : Irawan Djatmiko, SH. MH.
+Penuntut Umum     : Farkhan Junaedi, S.H.
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga; tuntutan_kuhp: amar Tuntutan nomor 1 tidak memuat Pasal KUHP

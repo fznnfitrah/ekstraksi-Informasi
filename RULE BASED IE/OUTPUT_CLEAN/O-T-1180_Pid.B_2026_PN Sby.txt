@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-1180_Pid.B_2026_PN Sby.txt
+Jenis Dokumen : pidana
+Status        : sebagian (12/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 1180/Pid.B/2026/PN Sby
+Nama Terdakwa 1   : AGUNG PRIYANTO
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : “Pencurian dengan pemberatan” tindak pidana
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : 2 (dua) tahun di kurangi selama terdakwa berada dalam
+Putusan Pidana    : pencurian dalam keadaan memberatkan
+Putusan Hukuman   : 1 (satu) tahun 6 (enam) bulan
+Tanggal Putusan   : 16 September 2026
+Hakim Ketua       : Safruddin, S.H., M.H.
+Hakim Anggota 1   : Hj. Satyawati Yun Irianti, S.H., M.Hum.
+Hakim Anggota 2   : Ristanti Rahim, S.H., M.H.
+Panitera          : Diah Eka Purnamasari, S.H., M.Hum.
+Penuntut Umum     : R Ocky Selo Handoko, S.H.
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_2: dokumen ini tidak mempunyai terdakwa kedua/ketiga; nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga; tuntutan_kuhp: amar Tuntutan nomor 1 tidak memuat Pasal KUHP

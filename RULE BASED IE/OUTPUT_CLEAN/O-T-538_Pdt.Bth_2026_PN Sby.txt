@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-538_Pdt.Bth_2026_PN Sby.txt
+Jenis Dokumen : bantahan
+Status        : lengkap (6/6 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 538/Pdt.Bth/2026/PN Sby
+Nama Terdakwa 1   : -
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : -
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : -
+Putusan Pidana    : -
+Putusan Hukuman   : -
+Tanggal Putusan   : 7 September 2026
+Hakim Ketua       : Dr. Nurnaningsih Amriani, S.H., M.H.
+Hakim Anggota 1   : Muhammad Zulqarnain, S.H., M.H.
+Hakim Anggota 2   : Rida Nur Karima, S.H., M.Hum.
+Panitera          : Mohamad Saeran., S.H., M.H.
+Penuntut Umum     : -
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_1: tidak berlaku untuk dokumen bantahan; nama_terdakwa_2: tidak berlaku untuk dokumen bantahan; nama_terdakwa_3: tidak berlaku untuk dokumen bantahan; tuntutan_pidana: tidak berlaku untuk dokumen bantahan; tuntutan_kuhp: tidak berlaku untuk dokumen bantahan; tuntutan_hukuman: tidak berlaku untuk dokumen bantahan; putusan_pidana: tidak berlaku untuk dokumen bantahan; putusan_hukuman: tidak berlaku untuk dokumen bantahan; penuntut_umum: tidak berlaku untuk dokumen bantahan

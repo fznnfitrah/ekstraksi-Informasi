@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-2857_Pid.B_2017_PN SBY.txt
+Jenis Dokumen : pidana
+Status        : sebagian (13/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 2857/Pid.B/2017/PN Sby
+Nama Terdakwa 1   : SAIFUL ARIFIN alias SIPUL Bin H. BURI
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : Pencurian dengan kekerasan secara bersama-sama yang mengakibatkan luka berat atau kematian dan Pencurian dengan kekerasan secara bersama-sama
+Tuntutan KUHP     : Pasal 365 ayat (4) KUHP
+Tuntutan Hukuman  : 20 (dua puluh) Tahun
+Putusan Pidana    : Pencurian dengan kekerasan secara bersama-sama yang mengakibatkan luka berat atau kematian Dan Pencurian dengan kekerasan secara bersama-sama
+Putusan Hukuman   : 12 (dua belas) Tahun
+Tanggal Putusan   : 27 November 2017
+Hakim Ketua       : ARI JIWANTARA, SH., MHum.
+Hakim Anggota 1   : H.R. UNGGUL WARSO MURTI, SH., MH.
+Hakim Anggota 2   : TIMUR PRADOKO, SH.
+Panitera          : H. SUTRISNO, SH., MH.
+Penuntut Umum     : P. MANULLANG, SH.
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_2: dokumen ini tidak mempunyai terdakwa kedua/ketiga; nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga

@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-1872_Pid.B_2017_PN SBY.txt
+Jenis Dokumen : pidana
+Status        : sebagian (14/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 1872/Pid.B/2017/PN Sby
+Nama Terdakwa 1   : RIZKY SYAIFUL ANWAR ALS KYKY BIN SYAIFUL BAHRI
+Nama Terdakwa 2   : RIANTO BIN SUGIT
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : pencurian yang didahului, disertai atau diikuti dengan kekerasan atau ancaman kekerasan, terhadap orang dengan maksud untuk mempersiapkan atau mempermudah pencurian, atau dalam hal tertangkap tangan, untuk memungkinkan melarikan diri sendiri atau peserta lainnya, atau untuk tetap menguasai barang yang dicuri, dilakukan dijalan umum, dilakukan oleh dua orang atau lebih dengan bersekutu
+Tuntutan KUHP     : pasal 365 ayat (1) dan (2) ke-1 dan ke-2 KUHP
+Tuntutan Hukuman  : 4 (empat) tahun
+Putusan Pidana    : pencurian dengan kekerasan yang dilakukan oleh dua orang atau lebih dengan bersekutu
+Putusan Hukuman   : 2 (dua) tahun dan 6 (enam) bulan
+Tanggal Putusan   : 24 Agustus 2017
+Hakim Ketua       : SIFA’UROSIDIN, SH., MH.
+Hakim Anggota 1   : ISJUAEDI, SH., MH.
+Hakim Anggota 2   : FX HANUNG DWI WIBOWO, SH., MH.
+Panitera          : YANID INDRA HARJONO, SH., MH.
+Penuntut Umum     : SRI RAHAYU, SH.
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga

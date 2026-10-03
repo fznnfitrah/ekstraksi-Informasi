@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-1134_Pid.Sus_2026_PN Sby.txt
+Jenis Dokumen : pidana
+Status        : sebagian (12/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 1134/Pid.Sus/2026/PN Sby
+Nama Terdakwa 1   : Ismi Aziza Binti Misnari
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : “ tanpa hak atau melawan hukum menawarkan untuk dijual, menjual, membeli, menerima, menjadi perantara dalam jual beli, menukar atau menyerahkan narkotika golongan I ” yang
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : 3 (tiga) tahun 3 (tiga) bulan
+Putusan Pidana    : tanpa hak atau melawan hukum membeli Narkotika Golongan I
+Putusan Hukuman   : 2 (dua) tahun dan 4 (empat) bulan
+Tanggal Putusan   : 9 September 2026
+Hakim Ketua       : Irlina, S.H., M.H.
+Hakim Anggota 1   : Dr. Nur Kholis, S.H., M.H.
+Hakim Anggota 2   : Sugeng Harsoyo, S.H., M.H.
+Panitera          : Achmad Sofwan Mustafiddin, S.H., M.H.
+Penuntut Umum     : Renanda Kusumastuti, S.H.
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_2: dokumen ini tidak mempunyai terdakwa kedua/ketiga; nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga; tuntutan_kuhp: amar Tuntutan nomor 1 tidak memuat Pasal KUHP

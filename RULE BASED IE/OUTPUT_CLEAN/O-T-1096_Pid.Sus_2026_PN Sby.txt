@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-1096_Pid.Sus_2026_PN Sby.txt
+Jenis Dokumen : pidana
+Status        : sebagian (12/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 1096/Pid.Sus/2026/PN Sby
+Nama Terdakwa 1   : Victor Gerald Bin Eddy (alm)
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : yang tanpa hak atau melawan hukum menawarkan untuk dijual, menjual, membeli, menerima, menjadi perantara dalam hal jual beli, menukar, menyerahkan atau menerima Narkotika Golongan I dalam bentuk bukan tanaman
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : 9 (Sembilan) tahun
+Putusan Pidana    : tanpa hak atau melawan hukum menerima Narkotika Golongan I dalam bentuk bukan tanaman yang beratnya melebihi 5 (lima) gram
+Putusan Hukuman   : 8 (delapan) tahun dan 6 (enam) bulan
+Tanggal Putusan   : 14 September 2026
+Hakim Ketua       : Dr. Nur Kholis, S.H., M.H.
+Hakim Anggota 1   : Irlina, S.H., M.H.
+Hakim Anggota 2   : Ernawati Anwar, S.H., M.H.
+Panitera          : Ryan Afrilyansyah, S.H.
+Penuntut Umum     : Hafidi, S.H., M.H.
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_2: dokumen ini tidak mempunyai terdakwa kedua/ketiga; nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga; tuntutan_kuhp: amar Tuntutan nomor 1 tidak memuat Pasal KUHP

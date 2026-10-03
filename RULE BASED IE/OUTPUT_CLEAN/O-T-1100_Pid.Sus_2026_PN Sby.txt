@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-1100_Pid.Sus_2026_PN Sby.txt
+Jenis Dokumen : pidana
+Status        : sebagian (11/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 1100/Pid.Sus/2026/PN Sby
+Nama Terdakwa 1   : Rivaldi Arvanda Prasetyawan Bin Slamet
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : “ yang tanpa hak atau melawan hukum menawarkan untuk dijual, menjual, membeli, menerima, menjadi perantara dalam ” jual beli, menukar, atau menyerahkan Narkotika Golongan I
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : -
+Putusan Pidana    : T anpa hak atau melawan hukum menawarkan untuk dijual, menjual, membeli, menerima, menjadi perantara dalam jual beli, menukar atau menyerahkan Narkotika Golongan I
+Putusan Hukuman   : 2 (dua) tahun
+Tanggal Putusan   : 3 September 2026
+Hakim Ketua       : Teguh Santoso, S.H.
+Hakim Anggota 1   : Betsji Siske Manoe, S.H., M.H.
+Hakim Anggota 2   : Muhammad Sukamto, S.H., M.H.
+Panitera          : Akhiruli Tridososasi, S.H.
+Penuntut Umum     : Wicaksono Subekti R
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_2: dokumen ini tidak mempunyai terdakwa kedua/ketiga; nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga; tuntutan_kuhp: amar Tuntutan nomor 1 tidak memuat Pasal KUHP; tuntutan_hukuman: amar Tuntutan nomor 2 tidak memuat durasi sesudah 'selama'

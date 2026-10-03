@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-66_Pdt.G.S_2017_PN SBY.txt
+Jenis Dokumen : gugatan-sederhana
+Status        : sebagian (4/6 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 66/Pdt.G.S/2017/PN Sby
+Nama Terdakwa 1   : -
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : -
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : -
+Putusan Pidana    : -
+Putusan Hukuman   : -
+Tanggal Putusan   : 19 Desember 2017
+Hakim Ketua       : SIGIT SUTRIONO , S.H., M.Hum.
+Hakim Anggota 1   : -
+Hakim Anggota 2   : -
+Panitera          : HARIYANTO, S.H., M.H.
+Penuntut Umum     : -
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_1: tidak berlaku untuk dokumen gugatan-sederhana; nama_terdakwa_2: tidak berlaku untuk dokumen gugatan-sederhana; nama_terdakwa_3: tidak berlaku untuk dokumen gugatan-sederhana; tuntutan_pidana: tidak berlaku untuk dokumen gugatan-sederhana; tuntutan_kuhp: tidak berlaku untuk dokumen gugatan-sederhana; tuntutan_hukuman: tidak berlaku untuk dokumen gugatan-sederhana; putusan_pidana: tidak berlaku untuk dokumen gugatan-sederhana; putusan_hukuman: tidak berlaku untuk dokumen gugatan-sederhana; hakim_anggota_1: daftar 'masing-masing sebagai Hakim Anggota' tidak ditemukan (misalnya hakim tunggal); hakim_anggota_2: anggota kedua tidak ditemukan (misalnya hakim tunggal); penuntut_umum: tidak berlaku untuk dokumen gugatan-sederhana

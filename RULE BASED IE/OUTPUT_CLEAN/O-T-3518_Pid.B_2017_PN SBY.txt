@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-3518_Pid.B_2017_PN SBY.txt
+Jenis Dokumen : pidana
+Status        : sebagian (13/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 3518/Pid.B/2017/PN Sby
+Nama Terdakwa 1   : DJAMALUDIN ALIAS UDIN BIN AHMAD NUR
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : DALAM HAL PERBARENGAN BEBERAPA PERBUATAN YANG HARUS DIPANDANG SEBAGAI PERBUATAN YANG BERDIRI SENDIRI SEHINGGA MERUPAKAN BEBERAPA KEJAHATAN. MENGAMBIL BARANG SESUATU YANG SELURUHNYA ATAU SEBAGIAN KEPUNYAAN ORANG LAIN. DENGAN MAKSUD UNTUK DIMILIKI SECARA MELAWAN HUKUM. DIWAKTU MALAM DALAM SEBUAH RUMAH, YANG DILAKUKAN OLEH ORANG YANG ADA DISITU TIDAK DIKETAHUI ATAU TIDAK DIKEHENDAKI OLEH YANG BERHAK. YANG UNTUK MASUK KE TEMPAT MELAKUKAN KEJAHATAN ATAU UNTUK SAMPAI PADA BARANG YANG DIAMBIL. DILAKUKAN DENGAN MERUSAK. MEMOTONG ATAU MEMANJAT. ATAU MEMAKAI ANAK KUNCI PALSU. PERINTAH PALSU ATAU PAKAIAN JABATAN PALSU
+Tuntutan KUHP     : pasal 363 ayat (1) ke-3, 5 KUHP
+Tuntutan Hukuman  : 4 (empat) tahun
+Putusan Pidana    : Pencurian dalam keadaan keadaan memberatkan
+Putusan Hukuman   : 2 (dua) tahun dan 6 (enam) bulan
+Tanggal Putusan   : 22 Februari 2018
+Hakim Ketua       : Maxi Sigarlaki, SH.MH.
+Hakim Anggota 1   : Rochmad, S.H.
+Hakim Anggota 2   : R. Anton Widyopriyono, SH.MH.
+Panitera          : Makhfud, SH.MH.
+Penuntut Umum     : Mochamad Solton, SH.MH.
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_2: dokumen ini tidak mempunyai terdakwa kedua/ketiga; nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga

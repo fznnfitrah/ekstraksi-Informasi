@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-1240_Pid.Sus_2026_PN Sby.txt
+Jenis Dokumen : pidana
+Status        : sebagian (12/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 1240/Pid.Sus/2026/PN Sby
+Nama Terdakwa 1   : Syaiful Wira Wijaya Bin Musman
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : tanpa hak memiliki, menyimpan, menguasai, atau menyediakan Narkotika Golongan I bukan tanaman
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : 3 (tiga) tahun 6 (enam) bulan
+Putusan Pidana    : tanpa hak Memiliki, menyimpan, menguasai Narkotika Golongan I bukan tanaman
+Putusan Hukuman   : 3 (tiga) tahun dan 4 (empat) bulan
+Tanggal Putusan   : 9 September 2026
+Hakim Ketua       : S. Pujiono, S.H., M.Hum.
+Hakim Anggota 1   : Edi Saputra Pelawi, S.H., M.H.
+Hakim Anggota 2   : Sagung Bunga Mayasaputri Antara, S.H.
+Panitera          : Andhika Rahatmasurya, S.H.
+Penuntut Umum     : Estik Dilla Rahmawati, S.H, M.H.
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_2: dokumen ini tidak mempunyai terdakwa kedua/ketiga; nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga; tuntutan_kuhp: amar Tuntutan nomor 1 tidak memuat Pasal KUHP

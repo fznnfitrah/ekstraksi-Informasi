@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-1159_Pid.Sus_2026_PN Sby.txt
+Jenis Dokumen : pidana
+Status        : sebagian (12/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 1159/Pid.Sus/2026/PN Sby
+Nama Terdakwa 1   : Rangga Dwi Novansyah Bin Kaharudin Alm.
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : “mengemudikan kendaraan bermotor yang
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : 1 (satu) tahun dan 10 (sepuluh) bulan
+Putusan Pidana    : “mengemudikan kendaraan bermotor yang
+Putusan Hukuman   : 1 (satu) tahun dan 6 (enam) bulan
+Tanggal Putusan   : 9 September 2026
+Hakim Ketua       : Ernawati Anwar, S.H. M.H.
+Hakim Anggota 1   : Cokia Ana Pontia Oppusunggu, SH.MH
+Hakim Anggota 2   : Dan Sugeng Harsoyo, SH.MH
+Panitera          : Dyah Rosdianti, S.H., M.H.
+Penuntut Umum     : Deddy Arisandi,SH.MH
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_2: dokumen ini tidak mempunyai terdakwa kedua/ketiga; nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga; tuntutan_kuhp: amar Tuntutan nomor 1 tidak memuat Pasal KUHP

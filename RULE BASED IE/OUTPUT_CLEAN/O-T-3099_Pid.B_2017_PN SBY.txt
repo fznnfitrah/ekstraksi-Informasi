@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-3099_Pid.B_2017_PN SBY.txt
+Jenis Dokumen : pidana
+Status        : sebagian (10/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 3099/Pid.B/2017/PN Sby
+Nama Terdakwa 1   : AGUS HALIM, SE, MM
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : -
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : -
+Putusan Pidana    : “ Penipuan dan menggunakan surat palsu atau yang dipalsukan “
+Putusan Hukuman   : 1 (satu) tahun
+Tanggal Putusan   : 16 Januari 2018
+Hakim Ketua       : DWI PURWADI, SH.MH.
+Hakim Anggota 1   : ANNE RUSIANA, SH.MHum.
+Hakim Anggota 2   : PUJO SAKSONO, SH.MH.
+Panitera          : DIAS SUROYO, SH. MH.
+Penuntut Umum     : Jaksa
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_2: dokumen ini tidak mempunyai terdakwa kedua/ketiga; nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga; tuntutan_pidana: amar Tuntutan nomor 1 tidak memuat perbuatan yang dapat dipisahkan; tuntutan_kuhp: amar Tuntutan nomor 1 tidak memuat Pasal KUHP; tuntutan_hukuman: amar Tuntutan nomor 2 tidak memuat durasi sesudah 'selama'

@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-3628_Pid.Sus_2017_PN SBY.txt
+Jenis Dokumen : pidana
+Status        : sebagian (12/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 3628/Pid.Sus/2017/PN SBY
+Nama Terdakwa 1   : Heri Sutrisno Bin Senawi Alm.
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : secara tak haka tau melawan hukum, memiliki, menyimpan, menguasai atau menyediakan narkotika golongan I bukan tanaman”
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : 7 (tujuh) tahun 6 (enam) bulan
+Putusan Pidana    : tanpa hak atau melawan hukum memiliki, menyimpan, menguasai atau menyediakan Narkotika golongan I bukan tanaman
+Putusan Hukuman   : 5 (lima) Tahun dan 6 (enam) Bulan
+Tanggal Putusan   : 22 Januari 2018
+Hakim Ketua       : Sifa’urosidin, S.H., M.H
+Hakim Anggota 1   : FX Hanung Dwi Wibowo, S.H., M.H.
+Hakim Anggota 2   : Agus Hamzah, SH., MH.
+Panitera          : Irawan Djatmiko, SH. MH.
+Penuntut Umum     : Katrin Sunita, S.H.
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_2: dokumen ini tidak mempunyai terdakwa kedua/ketiga; nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga; tuntutan_kuhp: amar Tuntutan nomor 1 tidak memuat Pasal KUHP

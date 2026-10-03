@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-62_Pdt.Sus-PKPU_2026_PN Niaga Sby.txt
+Jenis Dokumen : pailit-pkpu
+Status        : lengkap (6/6 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 62/Pdt.Sus-PKPU/2026/PN Niaga Sby
+Nama Terdakwa 1   : -
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : -
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : -
+Putusan Pidana    : -
+Putusan Hukuman   : -
+Tanggal Putusan   : 16 September 2026
+Hakim Ketua       : Aloysius Prihamoto Bayuaji, S.H., M.H
+Hakim Anggota 1   : Ega Shaktiana, S.H., M.H.
+Hakim Anggota 2   : Sih Yuliarti, S.H.
+Panitera          : Nurul Evarani, S.H., M.H.
+Penuntut Umum     : -
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_1: tidak berlaku untuk dokumen pailit-pkpu; nama_terdakwa_2: tidak berlaku untuk dokumen pailit-pkpu; nama_terdakwa_3: tidak berlaku untuk dokumen pailit-pkpu; tuntutan_pidana: tidak berlaku untuk dokumen pailit-pkpu; tuntutan_kuhp: tidak berlaku untuk dokumen pailit-pkpu; tuntutan_hukuman: tidak berlaku untuk dokumen pailit-pkpu; putusan_pidana: tidak berlaku untuk dokumen pailit-pkpu; putusan_hukuman: tidak berlaku untuk dokumen pailit-pkpu; penuntut_umum: tidak berlaku untuk dokumen pailit-pkpu

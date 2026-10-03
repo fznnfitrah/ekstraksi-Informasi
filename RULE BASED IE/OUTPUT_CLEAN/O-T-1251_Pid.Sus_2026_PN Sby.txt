@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-1251_Pid.Sus_2026_PN Sby.txt
+Jenis Dokumen : pidana
+Status        : sebagian (12/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 1251/Pid.Sus/2026/PN Sby
+Nama Terdakwa 1   : Willy Negara Anak Dari Dadang Anton Winarko
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : secara tanpa hak atau melawan hukum menawarkan untuk dijual, menjual, membeli, menerima, menjadi perantara dalam jual beli, menukar, atau menyerahkan Narkotika Golongan I
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : 5 (lima) tahun dan 3 (tiga) bulan
+Putusan Pidana    : Tanpa Hak Atau Melawan Hukum Membeli dan Menjual Narkotika Golongan I Bukan Tanaman
+Putusan Hukuman   : 4 (empat) tahun dan 3 (tiga) bulan
+Tanggal Putusan   : 7 September 2026
+Hakim Ketua       : I Made Yuliada, S.H., M.H.
+Hakim Anggota 1   : Ferdinand Marcus Leander, S.H., M.H.
+Hakim Anggota 2   : Ratna Dianing Wulansari, S.H., M.H.
+Panitera          : Maria Nur`Aeni, S.H.
+Penuntut Umum     : Damang Anubowo S.E, S.H. MH.
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_2: dokumen ini tidak mempunyai terdakwa kedua/ketiga; nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga; tuntutan_kuhp: amar Tuntutan nomor 1 tidak memuat Pasal KUHP

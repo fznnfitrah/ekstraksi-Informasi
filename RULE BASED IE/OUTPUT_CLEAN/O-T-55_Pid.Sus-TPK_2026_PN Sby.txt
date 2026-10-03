@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-55_Pid.Sus-TPK_2026_PN Sby.txt
+Jenis Dokumen : pidana
+Status        : sebagian (10/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 55/Pid.Sus-TPK/2026/PN Sby
+Nama Terdakwa 1   : AMIN ARIF SANTOSO
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : Secara melawan hukum melakukan perbuatan memperkaya diri sendiri, orang lain, atau korporasi yang merugikan keuangan negara atau perekonomian negara
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : 5 (lima) Tahun
+Putusan Pidana    : -
+Putusan Hukuman   : 3 (tiga) tahun 6 (enam) bulan
+Tanggal Putusan   : 10 Agustus 2026
+Hakim Ketua       : Ni Putu Sri Indayani, S.H., M.H.
+Hakim Anggota 1   : Athoillah, S.H.
+Hakim Anggota 2   : Ibnu Abas Ali, S.H., M.H.
+Panitera          : Nurul Evarani, S.H., M.H.
+Penuntut Umum     : -
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_2: dokumen ini tidak mempunyai terdakwa kedua/ketiga; nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga; tuntutan_kuhp: amar Tuntutan nomor 1 tidak memuat Pasal KUHP; putusan_pidana: amar MENGADILI nomor 1 tidak memuat perbuatan yang dapat dipisahkan; penuntut_umum: nama sebelum 'Penuntut Umum' tidak ditemukan di penutup

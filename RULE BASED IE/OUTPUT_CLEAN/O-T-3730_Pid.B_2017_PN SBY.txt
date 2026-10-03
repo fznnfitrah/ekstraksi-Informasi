@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-3730_Pid.B_2017_PN SBY.txt
+Jenis Dokumen : pidana
+Status        : sebagian (13/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 3730/Pid.B/2017/PN Sby
+Nama Terdakwa 1   : SUYADI
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : Perjudian Togel Online
+Tuntutan KUHP     : Pasal 303 ayat (1) ke-2 KUHPidana
+Tuntutan Hukuman  : 1 (satu) tahun 2 (dua) bulan
+Putusan Pidana    : Ikut serta main judi di jalan umum atau dipinggir jalan umum di tempat yang dapat dikunjungi oleh umum, kecuali kalau ada izin dari penguasa yang berwenang yang telah memberi izin untuk mengadakan perjudian itu
+Putusan Hukuman   : 8 (delapan) bulan
+Tanggal Putusan   : 22 Februari 2018
+Hakim Ketua       : R. Anton Widyopriyono, SH.MH.
+Hakim Anggota 1   : Maxi Sigarlaki, SH.MH.
+Hakim Anggota 2   : Dewi Iswani, SH.MH.
+Panitera          : Makhfud, SH.MH.
+Penuntut Umum     : Oki Muji Astuti, SH.
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_2: dokumen ini tidak mempunyai terdakwa kedua/ketiga; nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga

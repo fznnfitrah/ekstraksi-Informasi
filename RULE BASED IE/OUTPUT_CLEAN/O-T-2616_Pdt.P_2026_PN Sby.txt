@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-2616_Pdt.P_2026_PN Sby.txt
+Jenis Dokumen : permohonan
+Status        : sebagian (4/6 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 2616/Pdt.P/2026/PN Sby
+Nama Terdakwa 1   : -
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : -
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : -
+Putusan Pidana    : -
+Putusan Hukuman   : -
+Tanggal Putusan   : 10 September 2026
+Hakim Ketua       : Muhammad Sukamto, S.H., M.H.
+Hakim Anggota 1   : -
+Hakim Anggota 2   : -
+Panitera          : Nurul Evarani, S.H., M.H
+Penuntut Umum     : -
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_1: tidak berlaku untuk dokumen permohonan; nama_terdakwa_2: tidak berlaku untuk dokumen permohonan; nama_terdakwa_3: tidak berlaku untuk dokumen permohonan; tuntutan_pidana: tidak berlaku untuk dokumen permohonan; tuntutan_kuhp: tidak berlaku untuk dokumen permohonan; tuntutan_hukuman: tidak berlaku untuk dokumen permohonan; putusan_pidana: tidak berlaku untuk dokumen permohonan; putusan_hukuman: tidak berlaku untuk dokumen permohonan; hakim_anggota_1: daftar 'masing-masing sebagai Hakim Anggota' tidak ditemukan (misalnya hakim tunggal); hakim_anggota_2: anggota kedua tidak ditemukan (misalnya hakim tunggal); penuntut_umum: tidak berlaku untuk dokumen permohonan

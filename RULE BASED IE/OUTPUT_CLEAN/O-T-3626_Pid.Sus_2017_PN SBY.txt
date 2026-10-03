@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-3626_Pid.Sus_2017_PN SBY.txt
+Jenis Dokumen : pidana
+Status        : sebagian (12/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 3626/Pid.Sus/2017/PN Sby
+Nama Terdakwa 1   : TEGAR PUTRA SYAFAATULLAH Bin ARIFIN USMAN
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : “bermufakat jahat melawan hukum memiliki, menguasai narkotika golongan I bukan tanaman “
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : 7 (tujuh) tahun dan 6 (enam) bulan
+Putusan Pidana    : “bermufakat jahat melawan hukum memiliki, menguasai Narkotika golongan I bukan tanaman“
+Putusan Hukuman   : 5 (Lima) tahun
+Tanggal Putusan   : 7 Maret 2018
+Hakim Ketua       : YULISAR, SH.MH.
+Hakim Anggota 1   : SIGIT SUTRIONO, SH.MHum.
+Hakim Anggota 2   : PPH SITORUS, SH.MHum
+Panitera          : HARIYANTO, SH.MH.
+Penuntut Umum     : RIRIN INDRAWATI, SH.
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_2: dokumen ini tidak mempunyai terdakwa kedua/ketiga; nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga; tuntutan_kuhp: amar Tuntutan nomor 1 tidak memuat Pasal KUHP

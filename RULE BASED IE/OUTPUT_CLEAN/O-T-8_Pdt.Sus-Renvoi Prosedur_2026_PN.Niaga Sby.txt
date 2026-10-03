@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-8_Pdt.Sus-Renvoi Prosedur_2026_PN.Niaga Sby.txt
+Jenis Dokumen : renvoi
+Status        : lengkap (6/6 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 8/Pdt.Sus-Renvoi Prosedur/2026/PN Niaga Sby
+Nama Terdakwa 1   : -
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : -
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : -
+Putusan Pidana    : -
+Putusan Hukuman   : -
+Tanggal Putusan   : 14 September 2026
+Hakim Ketua       : Aloysius Priharnoto Bayuaji, S.H., M.H.
+Hakim Anggota 1   : Alex Adam Faisal, S.H., MH
+Hakim Anggota 2   : Shaktiana, S.H., M.H.
+Panitera          : Lukman Hakim, SH., MH.
+Penuntut Umum     : -
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_1: tidak berlaku untuk dokumen renvoi; nama_terdakwa_2: tidak berlaku untuk dokumen renvoi; nama_terdakwa_3: tidak berlaku untuk dokumen renvoi; tuntutan_pidana: tidak berlaku untuk dokumen renvoi; tuntutan_kuhp: tidak berlaku untuk dokumen renvoi; tuntutan_hukuman: tidak berlaku untuk dokumen renvoi; putusan_pidana: tidak berlaku untuk dokumen renvoi; putusan_hukuman: tidak berlaku untuk dokumen renvoi; penuntut_umum: tidak berlaku untuk dokumen renvoi

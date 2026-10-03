@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-1067_Pid.B_2026_PN Sby.txt
+Jenis Dokumen : pidana
+Status        : sebagian (13/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 1067/Pid.B/2026/PN Sby
+Nama Terdakwa 1   : SALOMO BILL RENATO Anak laki-laki dari SUBUR SETIA BUDI
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : Penggelapan dalam Jabatan
+Tuntutan KUHP     : Pasal 488 KUHPidana
+Tuntutan Hukuman  : 1 (satu) tahun dan 10 (sepuluh) bulan
+Putusan Pidana    : penggelapan dalam jabatan
+Putusan Hukuman   : 1 (satu) tahun 4 (empat) bulan
+Tanggal Putusan   : 10 September 2026
+Hakim Ketua       : Cokia Ana Pontia O, S.H., M.H.
+Hakim Anggota 1   : Dr. Nur Kholis, S.H., M.H.
+Hakim Anggota 2   : Sugeng Harsoyo, S.H., M.H.
+Panitera          : Ryan Afrilyansyah, S.H.
+Penuntut Umum     : Galih Riana Putra Intaran, S.H.
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_2: dokumen ini tidak mempunyai terdakwa kedua/ketiga; nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga

@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-2864_Pid.B_2017_PN SBY.txt
+Jenis Dokumen : pidana
+Status        : sebagian (13/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 2864/Pid.B/2017/PN SBY
+Nama Terdakwa 1   : Teddy Darmawan Setya Budi Bin Budiantoro
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : pencurian yang
+Tuntutan KUHP     : pasal 362 KUHP
+Tuntutan Hukuman  : 10 (sepuluh) bulan
+Putusan Pidana    : pencurian
+Putusan Hukuman   : 7 (tujuh) Bulan
+Tanggal Putusan   : 26 Oktober 2017
+Hakim Ketua       : Sifa’urosidin, SH., MH.
+Hakim Anggota 1   : Isjuaedi, SH., MH.
+Hakim Anggota 2   : Agus Hamzah, S.H., M.H.
+Panitera          : Irawan Djatmiko, SH., MH.
+Penuntut Umum     : Linda B Karundeng, SH.
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_2: dokumen ini tidak mempunyai terdakwa kedua/ketiga; nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga

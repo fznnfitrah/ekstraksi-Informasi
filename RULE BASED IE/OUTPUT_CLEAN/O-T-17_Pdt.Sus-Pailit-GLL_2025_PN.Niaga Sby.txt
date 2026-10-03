@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-17_Pdt.Sus-Pailit-GLL_2025_PN.Niaga Sby.txt
+Jenis Dokumen : pailit-pkpu
+Status        : lengkap (6/6 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 17/Pdt.Sus-Gugatan Lain-Lain/2025/PN Niaga Sby
+Nama Terdakwa 1   : -
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : -
+Tuntutan KUHP     : -
+Tuntutan Hukuman  : -
+Putusan Pidana    : -
+Putusan Hukuman   : -
+Tanggal Putusan   : 17 November 2025
+Hakim Ketua       : Silfi Yanti Zulfia, S.H., M.H.
+Hakim Anggota 1   : Sih Yuliarti, S.H.
+Hakim Anggota 2   : Teguh Santoso, S.H.
+Panitera          : Romauli Ritonga, S.H., M.H.
+Penuntut Umum     : -
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_1: tidak berlaku untuk dokumen pailit-pkpu; nama_terdakwa_2: tidak berlaku untuk dokumen pailit-pkpu; nama_terdakwa_3: tidak berlaku untuk dokumen pailit-pkpu; tuntutan_pidana: tidak berlaku untuk dokumen pailit-pkpu; tuntutan_kuhp: tidak berlaku untuk dokumen pailit-pkpu; tuntutan_hukuman: tidak berlaku untuk dokumen pailit-pkpu; putusan_pidana: tidak berlaku untuk dokumen pailit-pkpu; putusan_hukuman: tidak berlaku untuk dokumen pailit-pkpu; penuntut_umum: tidak berlaku untuk dokumen pailit-pkpu

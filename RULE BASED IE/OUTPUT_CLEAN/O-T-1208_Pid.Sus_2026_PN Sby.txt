@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-1208_Pid.Sus_2026_PN Sby.txt
+Jenis Dokumen : pidana
+Status        : sebagian (13/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 1208/Pid.Sus/2026/PN Sby
+Nama Terdakwa 1   : YOHANES SUPRAPTO
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : setiap orang yang dengan kekerasan atau ancaman kekerasan memaksa anak kandung bersetubuh dengannya, jika terjadi perbarengan beberapa tindak pidana yang saling berhubungan sehingga dipandang sebagai perbuatan berlanjut
+Tuntutan KUHP     : Pasal 473 ayat (2) huruf b jo ayat (4) jo ayat (9) jo Pasal 126 ayat (1) UU RI No.1 Tahun 2023 Tentang KUHP
+Tuntutan Hukuman  : 15 (lima belas) tahun
+Putusan Pidana    : “ Dengan ancaman kekerasan memaksa anak melakukan persetubuhan dengannya yang dilakukan beberapa kali“
+Putusan Hukuman   : 13 (tiga belas) tahun
+Tanggal Putusan   : 8 September 2026
+Hakim Ketua       : Meilia Christina Mulyaningrum, S.H.
+Hakim Anggota 1   : Wiyanto, S.H., M.H.
+Hakim Anggota 2   : Alex Adam Faisal, S.H, M.H.
+Panitera          : Leny Muji Astuti, S.H., M.H.
+Penuntut Umum     : Damang Anubowo SE, S.H. MH
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_2: dokumen ini tidak mempunyai terdakwa kedua/ketiga; nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga

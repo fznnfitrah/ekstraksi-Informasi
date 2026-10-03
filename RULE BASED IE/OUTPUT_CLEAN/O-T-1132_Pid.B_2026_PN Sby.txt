@@ -1,0 +1,23 @@
+=== ENTITAS TEREKSTRAKSI ===
+File Sumber   : T-1132_Pid.B_2026_PN Sby.txt
+Jenis Dokumen : pidana
+Status        : sebagian (13/15 berlaku)
+------------------------------------------------------------
+Nomor Putusan     : 1132/Pid.B/2026/PN Sby
+Nama Terdakwa 1   : Moh.As'ad Bin (alm) Ali Ridok
+Nama Terdakwa 2   : -
+Nama Terdakwa 3   : -
+Tuntutan Pidana   : penggelapan dalam jabatan “percobaan melakukan Tindak Pidana terjadi jika niat pelaku telah nyata dari adanya permulaan pelaksanaan dari Tindak Pidana yang dituju, tetapi pelaksanaannya tidak selesai, tidak mencapai hasil, atau tidak menimbulkan akibat yang dilarang, bukan
+Tuntutan KUHP     : Pasal 477 ayat (1) huruf g Jo. Pasal 17 ayat (1) UU RI No. 1 Tahun 2023 Tentang KUHP
+Tuntutan Hukuman  : 2 (dua) tahun
+Putusan Pidana    : ”Percobaan melakukan Tindak Pidana pencurian dalam keadaan memberatkan”
+Putusan Hukuman   : 1 (satu) tahun dan 6 (enam) bulan
+Tanggal Putusan   : 2 September 2026
+Hakim Ketua       : Ernawati Anwar, S.H., M.H.
+Hakim Anggota 1   : Djulita Tandi Massora, S.H., M.H.
+Hakim Anggota 2   : Sugeng Harsoyo, S.H., M.H.
+Panitera          : Irlina, S.H., M.H.
+Penuntut Umum     : Rene Anggara, S.H.
+------------------------------------------------------------
+Catatan Kosong:
+nama_terdakwa_2: dokumen ini tidak mempunyai terdakwa kedua/ketiga; nama_terdakwa_3: dokumen ini tidak mempunyai terdakwa kedua/ketiga
