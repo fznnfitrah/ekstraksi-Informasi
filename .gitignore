@@ -1,0 +1,12 @@
+PDF_Putusan/
+input_pdf/
+output_pdf/
+pos_ckpt/
+*.pt
+*.pkl
+*.zip
+*_nopos_*.csv
+data_mlformat_surabaya.csv
+.ipynb_checkpoints/
+*.bak.ipynb
+*copy.ipynb
